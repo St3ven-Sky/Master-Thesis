@@ -1,0 +1,267 @@
+station_name,leiden_community,rent_cluster_x,rent_cluster_y
+900 W Harrison St,1,3,1
+Aberdeen St & Jackson Blvd,1,1,1
+Aberdeen St & Monroe St,1,1,3
+Aberdeen St & Randolph St,1,3,2
+Adler Planetarium,1,3,1
+Albany Ave & 111th St - NW,5,0,0
+Ashland Ave & Chicago Ave,1,1,1
+Ashland Ave & Garfield Blvd,2,2,0
+Ashland Ave & Grace St,0,1,1
+Ashland Ave & Grand Ave,1,1,1
+Ashland Ave & McDowell Ave,2,0,0
+Ashland Ave & Pershing Rd,2,2,0
+Ashland Ave & Wellington Ave,0,1,1
+Austin Blvd & Chicago Ave,5,2,0
+Austin Blvd & Lake St,5,0,2
+Broadway & Cornelia Ave,0,1,1
+Broadway & Granville Ave,0,1,1
+Broadway & Thorndale Ave,0,1,1
+Burling St & Diversey Pkwy,0,1,1
+Burnham Greenway & 105th St,5,2,0
+Burnham Greenway & 112th St,5,3,0
+Burnham Harbor,2,3,1
+California & 16th St,1,0,3
+California Ave & 21st St,1,0,2
+California Ave & 23rd Pl,1,2,3
+California Ave & 26th St,1,0,0
+California Ave & 29th St,1,2,0
+California Ave & 36th St,5,0,0
+California Ave & Altgeld St,0,1,1
+California Ave & Byron St,0,1,1
+California Ave & Division St,1,1,1
+California Ave & Lake St,1,0,2
+Calumet Ave & 33rd St,2,1,1
+Campbell Ave & Irving Park Rd,0,0,0
+Campbell Ave & North Ave,0,1,1
+Canal St & Monroe St,1,3,2
+Cannon Dr & Fullerton Ave,0,3,1
+Central Ave & Roscoe St,0,2,0
+Central Park & Augusta Blvd,5,0,0
+Central Park Ave & Bloomingdale Ave,1,1,1
+Central Park Ave & Douglas Blvd,1,2,0
+Central Park Ave & Elbridge Ave,0,1,3
+Central Park Ave & North Ave,0,3,1
+Central Park Ave & Ogden Ave,1,3,2
+Central Park Blvd & 5th Ave,1,2,3
+Clark St & Drummond Pl,0,1,1
+Clark St & Wrightwood Ave,0,1,1
+Clinton St & Jackson Blvd,1,3,0
+Clinton St & Lake St,1,1,2
+Clinton St & Madison St,1,1,2
+Clinton St & Polk St,1,3,3
+Clinton St & Roosevelt Rd,1,1,1
+Clinton St & Tilden St,1,3,1
+Clinton St & Washington Blvd,1,3,0
+Clybourn Ave & Division St,0,1,1
+Columbus Dr & Randolph St,1,1,2
+Commercial Ave & 130th St,5,2,0
+Commercial Ave & 83rd St,2,0,3
+Constance Ave & 95th St,5,2,0
+Cornell Ave & Hyde Park Blvd,2,1,1
+Cornell Dr & Hayes Dr,2,3,3
+Cottage Grove & 86th St,5,0,0
+Cottage Grove Ave & 111th Pl,5,2,0
+Cottage Grove Ave & 111th St,5,2,0
+Cottage Grove Ave & 43rd St,2,0,3
+Cottage Grove Ave & 47th St,2,3,1
+Cottage Grove Ave & 67th St,2,0,0
+Cottage Grove Ave & 71st St,2,1,0
+Cottage Grove Ave & 78th St,2,0,0
+Cottage Grove Ave & 83rd St,2,2,0
+Cottage Grove Ave & 98th St,5,2,0
+Cottage Grove Ave & Oakwood Blvd,2,3,3
+Daley Center Plaza,1,3,2
+Damen Ave & 47th St,1,2,0
+Damen Ave & 59th St,4,0,0
+Damen Ave & 74th St,3,0,3
+Damen Ave & Clybourn Ave,0,1,1
+Damen Ave & Grand Ave,1,1,1
+Dearborn St & Van Buren St,1,1,1
+Dodge Ave & Main St,0,3,0
+Dodge Ave & Mulford St,0,3,3
+Dorchester Ave & 63rd St,2,3,3
+Drake Ave & Montrose Ave,0,3,3
+DuSable Lake Shore Dr & Diversey Pkwy,0,1,1
+DuSable Lake Shore Dr & Monroe St,2,1,1
+Dusable Harbor,2,1,1
+Eastlake Ter & Rogers Ave,0,1,3
+Eberhart Ave & 91st St,3,0,3
+Eggleston Ave & 92nd St,3,0,0
+Elizabeth (May) St & Fulton St,1,3,2
+Elizabeth St & 47th St,2,2,0
+Elizabeth St & 59th St,2,0,0
+Elizabeth St & 92nd St,3,0,0
+Ellis Ave & 53rd St,2,1,1
+Ellis Ave & 55th St,2,1,1
+Ellis Ave & 58th St,2,3,0
+Ellis Ave & 60th St,2,1,1
+Ellis Ave & 83rd St,2,2,2
+Evans Ave & 75th St,2,2,3
+Evanston Civic Center,0,1,1
+Ewing Ave & 99th St,5,0,0
+Exchange Ave & 79th St,2,0,0
+Field Blvd & South Water St,1,1,1
+Fort Dearborn Dr & 31st St,2,1,1
+Francisco Ave & Hollywood Ave,0,2,0
+Francisco Ave & Montrose Ave,0,1,3
+Franklin St & Adams St (Temp),1,3,2
+Franklin St & Chicago Ave,1,1,2
+Franklin St & Lake St,1,0,2
+Green St & 103rd St,5,0,0
+Greenwood Ave & 97th St,5,2,0
+Hale Ave & 107th St,3,2,3
+Halsted St & 104th St,3,2,0
+Halsted St & 111th St,3,2,3
+Halsted St & 18th St,1,1,1
+Halsted St & 21st St,1,1,1
+Halsted St & 37th St,2,2,1
+Halsted St & 69th St,2,0,0
+Halsted St & 73rd St,3,2,0
+Halsted St & 78th St,3,2,0
+Halsted St & 96th St,3,0,0
+Halsted St & Archer Ave,1,3,1
+Halsted St & Clybourn Ave,0,1,1
+Halsted St & Roscoe St,0,1,1
+Halsted St & Willow St,0,1,1
+Halsted St & Wrightwood Ave,0,1,1
+Hamilton Ave & 95th St,5,0,0
+Hamlin Ave & 62nd Pl,4,2,0
+Humboldt Blvd & Armitage Ave,0,1,1
+Hyde Park Blvd & 53rd St,2,0,0
+Hyde Park Blvd & 55th St,2,0,0
+Indiana Ave & 133rd St,5,0,0
+Indiana Ave & 26th St,2,3,1
+Indiana Ave & 31st St,2,3,1
+Indiana Ave & 40th St,2,2,0
+Indiana Ave & Roosevelt Rd,2,1,1
+Kedzie Ave & 52nd St,1,0,0
+Kedzie Ave & Lake St,1,0,3
+Kenneth Ave & 50th St,5,0,0
+Kilbourn Ave & Irving Park Rd,0,3,3
+Kilbourn Ave & Milwaukee Ave,0,3,2
+Leamington Ave & Hirsch St,5,0,0
+Leavitt St & Armitage Ave,0,1,1
+Leavitt St & Belmont Ave,0,1,1
+Lincoln Ave & Waveland Ave,0,1,1
+Lincoln Ave & Winona St,0,3,1
+Lincoln Park Conservatory,0,3,1
+Lincolnwood Dr & Central St,0,2,0
+Lockwood Ave & Wrightwood Ave,0,2,3
+Loomis Blvd & 84th St,2,0,3
+Loomis St & 89th St,3,0,0
+Loomis St & Archer Ave,2,1,3
+Loomis St & Jackson Blvd,1,1,3
+Loomis St & Lexington St,1,1,1
+Malcolm X College Vaccination Site,1,0,3
+Manor Ave & Leland Ave,0,3,1
+Maplewood Ave & 59th St,4,0,0
+Maplewood Ave & Peterson Ave,0,1,1
+Marine Dr & Ainslie St,0,1,1
+Marquette Ave & 89th St,2,0,0
+Meade Ave & Diversey Ave,5,2,0
+Menard Ave & Division St,5,0,0
+Michigan Ave & 71st St,2,0,0
+Michigan Ave & 8th St,1,1,1
+Michigan Ave & Jackson Blvd,2,3,1
+Michigan Ave & Lake St,1,3,2
+Michigan Ave & Oak St,0,3,1
+Michigan Ave & Pearson St,1,1,1
+Michigan Ave & Washington St,2,3,2
+Mies van der Rohe Way & Chicago Ave,0,1,2
+Milwaukee Ave & Grand Ave,1,1,1
+Morgan St & 18th St,1,1,1
+Morgan St & 31st St,1,1,1
+Morgan St & Pershing Rd,1,2,0
+Narragansett & McLean,5,0,0
+Normal Ave & Archer Ave,1,1,2
+Oak Park & Wellington,5,0,3
+Oakley Ave & Irving Park Rd,0,1,1
+Ogden Ave & Chicago Ave,1,1,1
+Panama Ave & Grace St,2,0,0
+Paulina St & 18th St,1,1,1
+Paulina St & Flournoy St,1,0,0
+Paulina St & Howard St,0,1,2
+Paulina St & Montrose Ave,0,3,1
+Peoria St & Jackson Blvd,1,1,1
+Perry Ave & 108th Pl,5,0,0
+Perry Ave & 69th St,2,0,0
+Phillips Ave & 79th St,2,0,3
+Pine Grove Ave & Irving Park Rd,0,1,1
+Pine Grove Ave & Waveland Ave,0,1,1
+Plainfield & Irving Park,2,0,0
+Princeton Ave & Garfield Blvd,2,0,0
+Pulaski & 52nd,4,0,0
+Pulaski Rd & 21st St,5,0,0
+Pulaski Rd & Eddy St (Temp),0,2,3
+Racine Ave & 109th Pl,5,0,0
+Racine Ave & 18th St,1,1,1
+Racine Ave & 35th St,2,1,1
+Racine Ave & 65th St,2,2,0
+Racine Ave & Fullerton Ave,0,1,1
+Ritchie Ct & Banks St,0,1,1
+Rockwell St & 63rd St,1,2,0
+Rush St & Superior St,1,1,2
+Sangamon St & Washington Blvd,1,3,1
+Sawyer Ave & Irving Park Rd,0,1,3
+Sayre & Diversey,5,2,0
+Sedgwick St & Schiller St,0,1,3
+Sedgwick St & Webster Ave,0,1,1
+Seeley Ave & Garfield Blvd,2,0,0
+Sheffield Ave & Fullerton Ave,0,1,2
+Sheffield Ave & Willow St,0,1,1
+Sheffield Ave & Wrightwood Ave,0,1,1
+Spaulding Ave & 16th St,1,0,0
+St Louis Ave & 59th St,4,2,0
+St Louis Ave & Norman Bobbins Ave,4,0,0
+St. Louis Ave & Balmoral Ave,0,2,3
+St. Louis Ave & Fullerton Ave,0,1,1
+State St & 123rd St,5,2,0
+State St & 33rd St,2,1,1
+State St & 35th St,2,3,1
+State St & Kinzie St,1,3,2
+Stockton Dr & Wrightwood Ave,0,1,1
+Stony Is Ave & 73rd St,2,0,0
+Stony Island Ave & 64th St,2,0,3
+Talman Ave & Addison St,0,3,2
+Torrence Ave & 126th Pl,5,0,0
+Tripp Ave & 15th St,5,0,0
+Tripp Ave & 31st St,5,2,0
+Tripp Ave & 65th St,4,2,0
+Troy St & Elston Ave,0,1,1
+Troy St & Jackson Blvd,5,2,0
+Troy St & North Ave,1,1,1
+Union Ave & Root St,2,3,0
+University Ave & 57th St,2,3,1
+University Library (NU),0,3,1
+Valli Produce - Evanston Plaza,0,2,0
+Vernon Ave & 107th St,5,2,3
+Vernon Ave & 75th St,2,2,0
+Vernon Ave & 79th St,3,0,0
+Virginia Ave & Catalpa Ave,0,2,3
+W 103rd St & S Avers Ave,3,2,0
+W Oakdale Ave & N Broadway,0,2,1
+W Washington Blvd & N Peoria St,1,2,3
+Wabash Ave & 9th St,1,1,1
+Walden Pkwy & 100th St,3,0,0
+Wallace St & 35th St,2,3,1
+Waller Ave & Chicago Ave,5,0,0
+Walsh Park,0,1,1
+Warren Park East,0,2,1
+Warren Park West,0,2,3
+Washtenaw Ave & Lawrence Ave,0,1,1
+Wentworth Ave & 104th St,3,2,0
+Western & 28th - Velasquez Institute Vaccination Site,1,2,0
+Western Ave & 21st St,1,2,1
+Western Ave & 24th St,1,2,3
+Western Ave & 62nd St,1,0,0
+Western Ave & 79th St,5,0,0
+Western Ave & Ardmore Ave,0,2,1
+Western Ave & Congress Pkwy,1,1,1
+Western Ave & Division St,1,1,1
+Western Ave & Grace St,0,2,0
+Western Ave & Lake St,1,0,0
+Whipple/Irving Park,0,0,3
+Wolcott (Ravenswood) Ave & Montrose Ave,0,1,1
+Wood St & 103rd St,3,0,0
+Yates Blvd & 75th St,2,2,1
